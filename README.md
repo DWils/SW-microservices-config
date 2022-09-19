@@ -2,4 +2,4 @@
 --                     SW-microservices-config                    --
 --------------------------------------------------------------------
 
-C'est un test de microservices pour des sites Star Wars
+C'est un test de microservices pour les sites Star Wars
